@@ -1,0 +1,6 @@
+@import '../../../../node_modules/@nebular/theme/styles/theming';
+@import '../../../../node_modules/@nebular/theme/styles/themes/cosmic';
+
+$nb-themes: nb-register-theme((
+
+), cosmic, cosmic);
